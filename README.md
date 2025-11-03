@@ -1,3 +1,3 @@
 # solocolon.com
 
-huge welcome you reached here out. a official website project of [@theSolocolon](https://www.youtube.com/@theSoloColon) on youtube.
+huge welcome. glad you reached out and made it here. a repository for official website of [@theSolocolon](https://www.youtube.com/@theSoloColon) on youtube.
